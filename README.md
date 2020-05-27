@@ -1,4 +1,17 @@
-# Fundamentos de Arquitetura de Software.
+# Fundamentos de Arquitetura de Software. :books:
+
+## Cluster
+
+- Um cluster consiste em computadores fracamente ou fortemente ligados que trabalham em conjunto, de modo que, em muitos aspectos, podem ser considerados como um único sistema.
+
+## Message Broker
+- Permite identificar o motivo de um determinado serviço ter sido incapaz de responder no momento de uma requisição.
+
+## Gerenciador de Pipeline
+- O gerenciador de pipeline recebe a requisição do Proxy HTTP e conforme a etapa da requisição envia para um serviço específico e independente.
+
+## Acoplamento
+- Permite identificar o motivo de um determinado serviço ter sido incapaz de responder no momento de uma requisição.
 
 ## Exercícios
 
